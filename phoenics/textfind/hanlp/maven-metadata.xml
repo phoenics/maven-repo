@@ -3,11 +3,12 @@
   <groupId>phoenics.textfind</groupId>
   <artifactId>hanlp</artifactId>
   <versioning>
-    <release>portable-1.3.1-20170803</release>
+    <release>portable-1.3.1-20170804</release>
     <versions>
       <version>portable-1.3.1-20170406</version>
       <version>portable-1.3.1-20170803</version>
+      <version>portable-1.3.1-20170804</version>
     </versions>
-    <lastUpdated>20170803061053</lastUpdated>
+    <lastUpdated>20170804035021</lastUpdated>
   </versioning>
 </metadata>
